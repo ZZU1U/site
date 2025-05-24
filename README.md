@@ -1,5 +1,7 @@
 # sv
 
+[![Deploy to GitHub Pages](https://github.com/ZZU1U/site/actions/workflows/deploy.yml/badge.svg)](https://github.com/ZZU1U/site/actions/workflows/deploy.yml)
+
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
 
 ## Creating a project
